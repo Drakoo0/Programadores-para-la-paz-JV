@@ -1,0 +1,15 @@
+Pregunta 5
+
+Algoritmo
+1.Buscar la informacion
+2.Revisar la fuente de donde salio la noticia o
+contenido
+3.Confirmar la noticia en otras paginas confiables
+4.Verificar la fecha para asegurarse de que sea 
+informacion actual
+5.Leer bien el contenido antes de compartirlo y no
+solo el titulo
+6.Pensar si la informacion puede ayudar o afectar
+a otras personas
+7.Compartir la informacion solo si es verdadera
+y confiable
