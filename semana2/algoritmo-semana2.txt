@@ -1,0 +1,13 @@
+
+
+Comandos utilizados:
+
+ls
+cd
+mkdir
+nano preguntas-semana2
+nano algoritmo-semana2
+nano reflexion-semana2
+git add
+git commit -m
+pwd
