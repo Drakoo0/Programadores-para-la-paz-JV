@@ -1,0 +1,3 @@
+Ruta /: responde "Servidor funcionando correctamente"
+Ruta /saludo: responde "Hola comunidad"
+Ruta /mensaje/juan: responde "Hola juan"

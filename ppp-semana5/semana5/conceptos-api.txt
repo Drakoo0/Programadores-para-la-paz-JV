@@ -1,0 +1,11 @@
+Qué hace esta ruta:
+La ruta /reporte recibe datos enviados por el usuario 
+mediante POST, toma el mensaje del cuerpo de la 
+solicitud y responde con un JSON confirmando que el 
+reporte fue recibido.
+
+Para qué sirve en una app comunitaria:
+Permite que los vecinos envíen reportes o alertas 
+como daños en vías, problemas de servicios públicos 
+o situaciones de riesgo, y el sistema los registra 
+de forma organizada.
