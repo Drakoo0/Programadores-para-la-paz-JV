@@ -1,0 +1,12 @@
+Las APIs con rutas POST permiten que las comunidades
+envíen información organizada desde cualquier
+dispositivo con internet.
+
+Con req.body podemos recibir datos específicos como
+el tipo de problema y su descripción, lo que hace
+más fácil registrar y atender reportes ciudadanos.
+
+Esto puede usarse para crear sistemas de veeduría
+donde los vecinos reporten daños, alertas o
+situaciones que necesiten atención, y todo quede
+guardado de forma ordenada para ser atendido.

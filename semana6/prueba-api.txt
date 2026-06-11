@@ -1,0 +1,7 @@
+Prueba ruta /registro:
+Datos enviados: {"nombre":"Juan","mensaje":"Hola"}
+Respuesta: {"estado":"Datos recibidos","nombre":"Juan","mensaje":"Hola"}
+
+Prueba ruta /incidencia:
+Datos enviados: {"tipo":"Fuga","descripcion":"Fuga de agua en calle 5"}
+Respuesta: {"mensaje":"Incidencia registrada","tipo":"Fuga","descripcion":"Fuga de agua en calle 5"}

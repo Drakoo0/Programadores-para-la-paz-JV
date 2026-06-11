@@ -1,0 +1,13 @@
+Ejemplo de incidencia comunitaria:
+
+Una comunidad puede usar esta API para reportar
+problemas del barrio. Por ejemplo:
+
+{
+  "tipo": "Alumbrado",
+  "descripcion": "Poste de luz dañado en la calle 10"
+}
+
+El servidor responde confirmando que la incidencia
+fue registrada, permitiendo llevar un control
+organizado de los problemas reportados.
