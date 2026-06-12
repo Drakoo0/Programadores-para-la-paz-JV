@@ -1,0 +1,16 @@
+Prueba ruta POST /reportes:
+Datos enviados: {"tipo":"Infraestructura","descripcion":"Daño en alumbrado publico calle 8"}
+Respuesta: {"mensaje":"Reporte registrado","reporte":{"id":1,"tipo":"Infraestructura","descripcion":"Daño en alumbrado publico calle 8"}}
+
+Segundo reporte enviado:
+Datos enviados: {"tipo":"Ambiente","descripcion":"Acumulacion de basura en el parque central"}
+Respuesta: {"mensaje":"Reporte registrado","reporte":{"id":2,"tipo":"Ambiente","descripcion":"Acumulacion de basura en el parque central"}}
+
+Prueba ruta GET /reportes:
+Al consultar esta ruta, el servidor responde con una
+lista en formato JSON que contiene todos los reportes
+registrados hasta el momento, incluyendo su id, tipo
+y descripcion.
+
+Respuesta obtenida:
+[{"id":1,"tipo":"Infraestructura","descripcion":"Daño en alumbrado publico calle 8"},{"id":2,"tipo":"Ambiente","descripcion":"Acumulacion de basura en el parque central"}]
