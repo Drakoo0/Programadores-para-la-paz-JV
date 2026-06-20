@@ -1,0 +1,21 @@
+Comando uname -a:
+Muestra información técnica del sistema operativo, 
+incluyendo el nombre del kernel (Linux), el nombre 
+del host, la versión del kernel, la fecha de 
+compilación, la arquitectura del procesador (aarch64) 
+y el sistema base (Android, en este caso por usar 
+Termux).
+
+Comando whoami:
+Muestra el nombre del usuario que está actualmente 
+conectado a la sesión de la terminal (en este caso 
+u0_a378, el usuario propio de Termux en Android).
+
+Por qué es útil conocer esta información cuando se 
+administra un servidor:
+Permite verificar qué sistema operativo y arquitectura 
+se está usando antes de instalar programas o ejecutar 
+comandos, evitando errores de compatibilidad. También 
+ayuda a identificar con qué usuario se están ejecutando 
+los procesos, lo cual es importante para gestionar 
+permisos y seguridad en el servidor.
