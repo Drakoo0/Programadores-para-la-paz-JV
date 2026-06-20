@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura porque mucha gente depende de ellas a diario.
+Si un servidor falla constantemente o no se monitorea, los usuarios pierden la confianza y dejan de usar el servicio.
+La estabilidad evita interrupciones que afectan a quienes más necesitan la plataforma, sobre todo en proyectos comunitarios con pocos recursos para resolver problemas rápido.
+Llevar registros (logs) ayuda a identificar errores antes de que se vuelvan graves y a entender qué está pasando dentro del sistema.
+La seguridad también es clave, porque protege los datos de las personas y evita accesos no autorizados.
+Un servidor bien monitoreado genera confianza en quienes lo usan.
+También facilita el trabajo de quien lo mantiene, porque permite detectar problemas a tiempo.
+En resumen, un servidor estable no es solo un tema técnico, es una forma de garantizar que la tecnología realmente sirva a la comunidad.
