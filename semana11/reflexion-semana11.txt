@@ -1,0 +1,19 @@
+Una plataforma de participación ciudadana
+necesita base de datos para guardar la
+información de forma organizada y que no
+se pierda cuando el servidor se reinicia.
+
+La autenticación es clave porque no toda
+la información debe estar disponible para
+cualquier persona. Hay acciones como crear
+causas o ver reportes que deben estar
+protegidas para evitar mal uso.
+
+La protección de datos es una responsabilidad
+ética: las personas confían en la plataforma
+con su información y esa confianza no debe
+romperse.
+
+Sin estas tres cosas juntas, la plataforma
+no sería confiable ni segura para la
+comunidad que la usa.
