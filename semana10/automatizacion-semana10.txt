@@ -1,0 +1,17 @@
+Flujo simple de automatización con n8n y Telegram:
+
+Evento: Se registra un nuevo reporte en el sistema.
+
+Acción: Enviar mensaje al canal de Telegram del equipo.
+
+Mensaje: "Nuevo reporte recibido. Revisar sistema."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos de quien reporta
+- Documentos de identidad
+- Direcciones exactas
+- Teléfonos personales
+- Claves o datos sensibles
+
+Solo se notifica que hay un nuevo reporte, sin
+exponer datos personales de la comunidad.

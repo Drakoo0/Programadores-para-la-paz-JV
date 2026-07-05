@@ -1,0 +1,22 @@
+Las metodologías ágiles ayudan a una comunidad
+porque permiten organizar el trabajo por prioridades,
+avanzar poco a poco y corregir errores antes de que
+se vuelvan grandes problemas.
+
+Con un backlog, el equipo sabe qué es urgente y qué
+puede esperar, evitando perder tiempo en tareas que
+no aportan valor inmediato a la comunidad.
+
+La automatización con herramientas como n8n y
+Telegram permite que el equipo sea notificado a
+tiempo sin tener que estar revisando el sistema
+constantemente, lo que hace el trabajo más eficiente.
+
+Telegram como canal comunitario facilita la
+comunicación rápida entre miembros del equipo y
+ciudadanos, sin necesidad de herramientas costosas.
+
+Usar estas herramientas con criterio y responsabilidad
+garantiza que la tecnología realmente sirva a la
+comunidad y no se convierta en un riesgo para la
+privacidad o seguridad de las personas.
