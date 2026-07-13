@@ -1,0 +1,26 @@
+Durante el curso aprendí que la tecnología
+puede ser una herramienta real de cambio
+social cuando se usa con responsabilidad
+y con un propósito claro.
+
+Aprender a construir APIs, manejar datos,
+automatizar procesos y generar documentos
+me mostró que con conocimientos básicos
+se pueden crear soluciones útiles para
+problemas reales de la comunidad.
+
+Lo más importante no fue el código en sí,
+sino entender que detrás de cada dato hay
+una persona, y que proteger esa información
+es una responsabilidad ética.
+
+Herramientas como Telegram y n8n permiten
+mantener a la comunidad informada sin
+exponer datos sensibles, y eso es clave
+para generar confianza en cualquier
+plataforma participativa.
+
+El reto ahora es seguir aplicando estos
+aprendizajes para construir soluciones
+que realmente impacten de forma positiva
+a quienes más lo necesitan.

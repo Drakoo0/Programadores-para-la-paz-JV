@@ -1,0 +1,13 @@
+Flujo de automatización con n8n y Telegram:
+
+Evento: Nueva causa registrada en la plataforma.
+
+Mensaje enviado: "Nueva causa creada en la
+plataforma. Ingresa a revisar y apoyarla."
+
+Información que NO debe enviarse:
+- Cédulas o documentos de identidad
+- Teléfonos personales
+- Direcciones
+- Comentarios sensibles
+- Datos personales de quienes apoyan
